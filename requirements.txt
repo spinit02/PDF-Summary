@@ -3,4 +3,3 @@ streamlit
 sentence-transformers
 PyPDF2
 faiss-cpu
-faiss-gpu
