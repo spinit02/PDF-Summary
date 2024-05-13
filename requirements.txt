@@ -1,5 +1,1 @@
-langchain
-streamlit
-openai
-sentence-transformers
-PyPDF2
+1
